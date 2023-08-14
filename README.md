@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Parmar
-- 👀 I’m interested in Machine learning and Cybersecurity
-- 🌱 I’m currently learning Mahine learning with Python language, Linux Operating System,
+- 👀 I’m interested in Frontend development and Cybersecurity
+- 🌱 I’m currently learning React.js with modern UI/UX practices
 - 💞️ I’m looking to collaborate on Opensource Projects
 - 📫 How to reach me ---
      Email: shubhamparmar1107@gmail.com
