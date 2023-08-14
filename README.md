@@ -5,5 +5,4 @@
 - 📫 How to reach me ---
      Email: shubhamparmar1107@gmail.com
 
-Computer Science Engineering student with interest in Machine Learning and Cyber Security. Skilled in C++, Python, and Linux Operating system.
-Enthusiastic engineering student pursuing Bachelor of Technology (B.Tech.) focused in Information Technology from ITM Group Of Institutions, Gwalior.
+As a passionate Front-End Engineer intern, I specialize in creating captivating web experiences through expertise in HTML, CSS, JavaScript, React.js, and Redux. With a keen eye for design and a passion for innovative solutions, I'm dedicated to crafting user-friendly interfaces that seamlessly fuse aesthetics with functionality, ensuring exceptional user engagement and satisfaction.
